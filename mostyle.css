@@ -1,0 +1,82 @@
+.contain{
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    background-color: blanchedalmond;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px;
+    border-radius: 50px;
+
+}
+#nav {
+    position: fixed;
+    width: 100%;
+    background-color:rgb(178, 32, 32); 
+    list-style-type: none;
+    text-align: center;
+    margin:-10px;
+    border: 2px solid black ;
+    
+}
+
+ #nav li #fun{
+    margin-right: 300px;
+    color: aliceblue;
+    padding: 20px ;
+   
+    
+    }
+#nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+#nav li a {
+    text-decoration: none;
+    font-weight:lighter ;
+    color: black;
+}
+
+.im{
+    width: 50%;
+    height: 30%;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px;
+}
+ .pe{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    box-shadow: 2px 2px 2px 2px;
+    background-color:white; 
+    width: 45%;
+    margin: auto;
+    padding: max-content ;
+    border-radius: 5px;
+    text-decoration: underline;
+    line-height: 150%;
+
+}
+.h{
+    font-size: 200%;
+    border: 2px solid black ;
+    background-color:rgb(178, 32, 32); 
+    color: aliceblue;
+    border-radius: 10px;
+    width: 25%;
+    height: 8%;
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px;
+}
+.e{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    box-shadow: 2px 2px 2px 2px;
+    background-color:white; 
+    width: 20%;
+    margin: auto;
+    border-radius: 5px;
+    text-decoration: underline;
+    line-height: 150%; 
+}
+
